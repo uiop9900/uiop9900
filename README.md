@@ -14,8 +14,13 @@
    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </div><br>
 
- 
+<h3 align="center">🖲️Tech🖲️</h3>
+<div align="center">report about what I studied</div><br>
+
+<div align="center">
 <a href="https://blog.naver.com/jia9510"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/jia9510"/></a>
+<a href="https://github.com/uiop9900/uiop9900"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/uiop9900/uiop9900"/></a>
+</div>
  
  <div align="center">
 # :mailbox_with_mail: Contacts
