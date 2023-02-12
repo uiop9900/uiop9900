@@ -29,6 +29,7 @@ jobs:
       env:
         README_TOKEN: ${{ secrets.README_TOKEN }}
       run: |-
+        node16
         ./run_me
         cat README.md
     - name: Update REAMDE
